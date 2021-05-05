@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the data is correct  1`] = `"Form"`;
+
+exports[`the login data is correct  1`] = `"Form"`;
